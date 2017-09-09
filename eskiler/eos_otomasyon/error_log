@@ -1,0 +1,9 @@
+[09-Sep-2017 13:19:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/eosbote/public_html/alinandersler.php on line 23
+[09-Sep-2017 13:19:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/eosbote/public_html/dersprogrami.php on line 6
+[09-Sep-2017 13:19:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/eosbote/public_html/sinavprogrami.php on line 24
+[09-Sep-2017 13:19:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/eosbote/public_html/devamdurumu.php on line 11
+[09-Sep-2017 13:19:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/eosbote/public_html/devamdurumu.php on line 23
+[09-Sep-2017 13:19:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/eosbote/public_html/alinandersler.php on line 23
+[09-Sep-2017 13:19:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/eosbote/public_html/notgoruntuleme.php on line 13
+[09-Sep-2017 13:19:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/eosbote/public_html/notgoruntuleme.php on line 26
+[09-Sep-2017 13:25:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/eosbote/public_html/admin.php on line 17

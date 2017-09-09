@@ -1,0 +1,76 @@
+<html>
+<head>
+
+<title>Bilişim Üniversitesi Ögrenci Bilgilendirme Sistemi</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="stylesheet" type="text/css" media="screen" href="css.css" />
+<!-- Java Dosyalarını Çagırma -->
+<script src="javascript/index.js" language="javascript" type="text/javascript"></script>
+<script src="http://code.responsivevoice.org/responsivevoice.js"></script>
+<script src="javascript/recognition-voice.js" language="javascript" type="text/javascript"></script>
+<!--***************************-->
+
+<script>
+setTimeout(function(){sesliKomut();},1000);
+
+</script>
+
+</head>
+
+<body class="resim">
+<div class="site">
+	<div class="logoDiv">
+		<div class="logo"></div>
+	</div>
+	<div class="yaziDiv">
+	<H3>Bilişim Üniversitesi</H3>
+	<H3>Sizin Hayalleriniz Bizim de Hayalimizdir. </H3>
+	</div>
+	<div class="loginDiv"><form name="form1"  method="post" action="login.php">
+	<table width="284" border="0" align="center">
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>
+      <label><h2>Kullanıcı Adı</h2> </label>
+      <input type="text" name="kullaniciAdi" id="kullaniciAdi">    </td>
+  </tr>
+  <tr>
+    <td><label><h2> Kullanıcı Şifre</h2> </label>
+        <input type="password" name="kullaniciSifre" id="kullaniciSifre">
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><label>
+      <input type="submit" name="Submit" value="Giriş Yap" id="bb">
+    </label></td>
+  </tr>
+  
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+	</form>
+</div>
+	<div class="sosyalDiv">
+    
+    <table width="33%" border="0" align="center">
+  <tr>
+    <td width="25%"><a href="https://www.facebook.com/Bili%C5%9Fim-%C3%9Cniversitesi-736722539865742/"><img src="img/sface.png" width="72" height="82" alt="facebook"></a></td>
+    <td width="25%"><a href="https://www.instagram.com/bilisimuniversitesi/"><img src="img/sinstagram.png" width="72" height="82" alt="instagram"></a></td>
+    <td width="25%"><a href="https://twitter.com/bilisimuni"><img src="img/stwitter.png" width="72" height="82" alt="twitter"></a></td>
+    <td width="25%"><a href="https://www.youtube.com/channel/UCZtiD0fOL3b-m4EmCSSJ4Yg"><img src="img/syoutube.png" width="72" height="82" alt="youtube"></a></td>
+ 
+  </tr>
+</table>
+<textarea id="results" name="results" hidden=""></textarea>
+  </div>
+  
+</div>
+
+</body>
+</html>

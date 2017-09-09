@@ -1,0 +1,205 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	padding:0px;
+	margin:0px;
+	background:#f1f1f1;
+	}
+
+
+.site{
+width:100%;
+height:100%;
+margin:0 auto;
+padding:0px;
+float:left;
+background:#f1f1f1;
+}
+.ustMenu{
+	width:100%;
+	height:50px;
+	float:left;
+	margin:0%;
+	background:#009688;
+	}
+p{
+color:#000;
+padding-left:20px;
+font-size:16px;
+}
+h1{
+color:#666;
+margin-left:0px;
+font-size:16px;
+font-weight:lighter;
+}
+h1 img{
+padding-right:10px;
+padding-left:20px;
+width:20px;
+height:20px;
+}
+h4{
+color:#666;
+margin-left:20px;
+font-size:18px;
+}
+h6{
+color:#666;
+margin-top:20px;
+
+font-size:24px;
+}
+h6 img{
+padding-left:15px;
+padding-left:50px;
+width:30px;
+height:30px;
+margin:0px;
+}
+h3{
+color:#000;
+margin-top:0px;
+font-size:24px;
+}
+
+h2{
+color:#666;
+margin-top:0px;
+font-size:24px;
+}
+h2 img{
+padding-right:10px;
+padding-left:20px;
+width:20px;
+height:20px;
+}
+
+
+
+h5{
+font-size:15px;
+padding-left:20px;
+color:#666;
+font-family:Tahoma, Geneva, sans-serif;
+font-style:normal;
+font-variant:normal;
+font-weight:lighter;
+}
+h5 img{
+padding-right:10px;
+width:20px;
+height:20px;
+}
+
+/*-------------------------------------------------------*/
+.icerik{
+	width:99%;
+	height:auto;
+	float:right;
+	margin:1%;
+	background:#f1f1f1;
+	}
+/*********************************************************/
+.iceriksag{
+	width:25%;
+	height:auto;	
+	float:left;
+	margin-top:1%;
+	margin-left:2%;
+	background:#fff;
+	-webkit-box-shadow: 0 0 6px 4px black;
+	-moz-box-shadow: 0 0 6px 4px black;
+	box-shadow: 0 0 1px 1px #333;
+	border-radius:15px 0px 0px 0px;		
+	}
+.icsgprofilresimi {
+	width:100%;
+	height:250px;	
+	float:left;
+	margin:0%;	
+	   
+	}
+.icsgprofilresimi img {
+	
+	padding:0px;
+	margin:0%;
+	width:100%;
+	height:250px;	
+	float:left;
+	border-radius:15px 0px 0px 0px;		   
+	}
+
+.icsgprYazi{	
+	width:21.5%;
+	height:25px;	
+	float:left;
+	position:absolute;
+	left:50px;top:220px;
+	background:#fff;
+	text-align:center;
+	
+	}
+.icsgpBilgi{
+	width:100%;
+	height:auto;	
+	float:left;
+	margin:0%;
+	background:#FFF;
+	}
+.icsgpMenu{
+	width:100%;
+	height:auto;	
+	float:left;
+	margin:0.5%;
+	background:#FFF;
+	}
+/*****************************************************/
+.iceriksol{
+	width:70%;
+	height:auto;
+	float:left;
+	
+	margin:1%;
+	
+	
+	}
+.icslDuyurular{
+	width:99%;
+	height:auto;
+	float:left;
+	margin:0px;
+	background:#fff;
+	-webkit-box-shadow: 0 0 6px 4px black;
+	-moz-box-shadow: 0 0 6px 4px black;
+	box-shadow: 0 0 1px 1px #333;
+	border-radius:0px 0px 0px 0px;	
+	padding-bottom:15px;
+	}
+.icslSinavProgrami{
+	background:#fff;
+	width:99%;
+	height:auto;
+	float:left;
+	margin-top:15px;
+	-webkit-box-shadow: 0 0 6px 4px black;
+	-moz-box-shadow: 0 0 6px 4px black;
+	box-shadow: 0 0 1px 1px #333;
+	border-radius:0px 0px 0px 0px;
+	padding-bottom:15px;
+	}
+/*!------------------------------------------------------!*/
+/*********************************************************/
+.alt{
+	width:100%;
+	height:110px;
+	float:left;
+	margin:0%;
+	background:#009688;
+	}
+	
+
+	
+	
+	
+

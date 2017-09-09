@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^working\.smart\-gt\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.working\.smart\-gt\.com$
+RewriteRule ^(.*)$ "http\:\/\/t\.smart\-gt\.com\/$1" [R=301,L]
+
